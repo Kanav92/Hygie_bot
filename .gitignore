@@ -1,0 +1,13 @@
+node_modules/
+hf_cache/
+cache/
+custom_cache/
+models/
+vectorstore/
+*.faiss
+*.pkl
+*.pdf
+*.bin
+*.pt
+*.pth
+.env
